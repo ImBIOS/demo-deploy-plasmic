@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[525],{7978:function(t,a,e){e.r(a),e.d(a,{default:function(){return u}});var n=e(7294),s=e(9248),r=e(4116);function u(t){var a=t.data.plasmicOptions;return(0,r.g)(a),n.createElement(s.PlasmicCanvasHost,null)}}}]);
+//# sourceMappingURL=component---src-pages-plasmic-host-tsx-fb45f359357dc68e13c2.js.map
